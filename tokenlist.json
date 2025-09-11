@@ -6,11 +6,19 @@
     "tokens": [
         {
             "chainId": 9746,
+            "address": "0x9dBC26D5c43016Dd9ffB04eCdc5302b6ddF1d6EB",
+            "name": "Fuseon",
+            "symbol": "FUS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fuseon.png"
+        },
+        {
+            "chainId": 9746,
             "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
             "name": "Wrapped XPL",
             "symbol": "WXPL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fuseon.png"
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/xpl.png"
         },
         {
             "chainId": 9746,
