@@ -1,72 +1,88 @@
 {
-    "name": "Kodo Exchange",
-    "logoURI": "https://www.kodo.exchange/logo.svg",
+    "name": "Fuseon",
+    "logoURI": "fuseon.finance/logo.png",
     "keywords": ["layer2", "amm"],
     "timestamp": "2024-06-10 19:23:00",
     "tokens": [
         {
-            "chainId": 167000,
-            "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
+            "chainId": 9746,
+            "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
+            "name": "Wrapped XPL",
+            "symbol": "WXPL",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/weth.png"
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fuseon.png"
         },
         {
-            "chainId": 167000,
-            "address": "0xa9d23408b9ba935c230493c40c73824df71a0975",
-            "name": "Taiko Token",
-            "symbol": "TAIKO",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/tko.svg"
-        },
-        {
-            "chainId": 167000,
+            "chainId": 9746,
             "address": "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdc.png"
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/usdc.png"
         },
         {
-            "chainId": 167000,
-            "address": "0x7e91F29F8a213c8311712A8FC8c61219fb9477CB",
-            "name": "Kodo Token",
-            "symbol": "KODO",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg"
-        },
-        {
-            "chainId": 167000,
-            "address": "0xd347949F8C85d9f3d6B06bfc4F8c2E07c161f064",
-            "name": "LoopringCoin V2",
-            "symbol": "LRC",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png"
-        },
-        {
-            "chainId": 167000,
+            "chainId": 9746,
             "address": "0x2def195713cf4a606b49d07e520e22c17899a736",
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png"
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/usdt.png"
         },
         {
-            "chainId": 167000,
-            "address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
-            "name": "Bridged USDC (Stargate)",
-            "symbol": "USDC.e",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg"
+            "chainId": 9746,
+            "address": "0x1234567890123456789012345678901234567890",
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/BTC.png"
         },
         {
-            "chainId": 167000,
-            "address": "0x473C58b748156D3249cA31Baa3cAd9781EB6d97e",
-            "name": "Rocket Pool ETH",
-            "symbol": "rETH",
+            "chainId": 9746,
+            "address": "0x2345678901234567890123456789012345678901",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.svg"
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/dai.png"
+        },
+        {
+            "chainId": 9746,
+            "address": "0x3456789012345678901234567890123456789012",
+            "name": "Ethena",
+            "symbol": "ENA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/ethena.png"
+        },
+        {
+            "chainId": 9746,
+            "address": "0x4567890123456789012345678901234567890123",
+            "name": "First Digital USD",
+            "symbol": "FDUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fdusd.png"
+        },
+        {
+            "chainId": 9746,
+            "address": "0x5678901234567890123456789012345678901234",
+            "name": "Frax",
+            "symbol": "FRAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/frax.png"
+        },
+        {
+            "chainId": 9746,
+            "address": "0x6789012345678901234567890123456789012345",
+            "name": "GHO",
+            "symbol": "GHO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/gho.png"
+        },
+        {
+            "chainId": 9746,
+            "address": "0x7890123456789012345678901234567890123456",
+            "name": "Gold",
+            "symbol": "GOLD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/gold.png"
         }
     ]
-  }
+}
