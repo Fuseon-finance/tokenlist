@@ -14,7 +14,7 @@
         },
         {
             "chainId": 9746,
-            "address": "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+            "address": "0x299380867C9903D2841c98E55eaCBd293d46604C",
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6,
@@ -22,7 +22,7 @@
         },
         {
             "chainId": 9746,
-            "address": "0x2def195713cf4a606b49d07e520e22c17899a736",
+            "address": "0x12adA0e58293017eA3e5e6c1C0976F0f162A411b",
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
@@ -30,59 +30,11 @@
         },
         {
             "chainId": 9746,
-            "address": "0x1234567890123456789012345678901234567890",
+            "address": "0x46534d2ED1d7529704fEC4210e0765f5088F9165",
             "name": "Bitcoin",
             "symbol": "BTC",
-            "decimals": 8,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/BTC.png"
         },
-        {
-            "chainId": 9746,
-            "address": "0x2345678901234567890123456789012345678901",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/dai.png"
-        },
-        {
-            "chainId": 9746,
-            "address": "0x3456789012345678901234567890123456789012",
-            "name": "Ethena",
-            "symbol": "ENA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/ethena.png"
-        },
-        {
-            "chainId": 9746,
-            "address": "0x4567890123456789012345678901234567890123",
-            "name": "First Digital USD",
-            "symbol": "FDUSD",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fdusd.png"
-        },
-        {
-            "chainId": 9746,
-            "address": "0x5678901234567890123456789012345678901234",
-            "name": "Frax",
-            "symbol": "FRAX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/frax.png"
-        },
-        {
-            "chainId": 9746,
-            "address": "0x6789012345678901234567890123456789012345",
-            "name": "GHO",
-            "symbol": "GHO",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/gho.png"
-        },
-        {
-            "chainId": 9746,
-            "address": "0x7890123456789012345678901234567890123456",
-            "name": "Gold",
-            "symbol": "GOLD",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/gold.png"
-        }
     ]
 }
