@@ -35,6 +35,6 @@
             "symbol": "BTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/BTC.png"
-        },
+        }
     ]
 }
