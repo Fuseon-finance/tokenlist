@@ -12,14 +12,6 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/xpl.png"
         },
-         {
-            "chainId": 9746,
-            "address": " 0x9dBC26D5c43016Dd9ffB04eCdc5302b6ddF1d6EB",
-            "name": "Fuseon",
-            "symbol": "FUS",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fuseon.png"
-        },
         {
             "chainId": 9746,
             "address": "0x299380867C9903D2841c98E55eaCBd293d46604C",
