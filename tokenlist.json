@@ -5,7 +5,7 @@
     "timestamp": "2024-06-10 19:23:00",
     "tokens": [
         {
-            "chainId": 9746,
+            "chainId": 9745,
             "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
             "name": "Wrapped XPL",
             "symbol": "WXPL",
@@ -13,36 +13,21 @@
             "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/xpl.png"
         },
         {
-            "chainId": 9746,
-            "address": "0x9dBC26d5c43016DD9FfB04eCDC5302B6DDF1D6eb",
-            "name": "Fuseon",
-            "symbol": "FUS",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fuseon.png"
-        },   
-        {
-            "chainId": 9746,
-            "address": "0x299380867C9903D2841c98E55eaCBd293d46604C",
-            "name": "USD Coin",
-            "symbol": "USDC",
+            "chainId": 9745,
+            "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+            "name": "USDT0",
+            "symbol": "USDT0",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/usdc.png"
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/usdt0.png"
         },
         {
-            "chainId": 9746,
-            "address": "0x12adA0e58293017eA3e5e6c1C0976F0f162A411b",
-            "name": "Tether USD",
-            "symbol": "USDT",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/usdt.png"
-        },
-        {
-            "chainId": 9746,
-            "address": "0x46534d2ED1d7529704fEC4210e0765f5088F9165",
-            "name": "Bitcoin",
-            "symbol": "BTC",
+            "chainId": 9745,
+            "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/BTC.png"
-        }
+            "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/weth.png"
+        },
+    
     ]
 }
