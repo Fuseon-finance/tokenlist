@@ -43,6 +43,14 @@
               "symbol": "USDai",
               "decimals": 18,
               "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/usdai.png"
+          },
+        {
+              "chainId": 9745,
+              "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+              "name": "USDe",
+              "symbol": "USDe",
+              "decimals": 18,
+              "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/usde.png"
           }
           {
               "chainId": 9745,
