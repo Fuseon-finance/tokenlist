@@ -10,7 +10,7 @@
               "name": "Fuseon Token",
               "symbol": "FUS",
               "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fus.png"
+              "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/fuseon.png"
           },
           {
               "chainId": 9745,
