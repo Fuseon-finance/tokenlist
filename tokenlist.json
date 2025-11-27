@@ -5,7 +5,7 @@
       "timestamp": "2025-09-25 19:23:00",
       "tokens": [
           {
-              "chainId": 9745,
+              "chainId": 2201,
               "address": "0xf623BF8d7872b4B4C93bE2E5CD6987A5c0dcAE32",
               "name": "StableSwap",
               "symbol": "STA",
@@ -13,7 +13,7 @@
               "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/sta.png"
           },
           {
-              "chainId": 9745,
+              "chainId": 2201,
               "address": "0x804f2E7133d820092D1cb0DA7a77385ECf6e1692",
               "name": "Wrapped gUSDT",
               "symbol": "WGUSDT",
