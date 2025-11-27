@@ -6,27 +6,19 @@
       "tokens": [
           {
               "chainId": 9745,
-              "address": "0xDfAD3B638Fb77cCBd0712516877541CF7FA3341E",
+              "address": "0xf623BF8d7872b4B4C93bE2E5CD6987A5c0dcAE32",
               "name": "StableSwap",
               "symbol": "STA",
               "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/sta.png"
+              "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/sta.png"
           },
           {
               "chainId": 9745,
-              "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
+              "address": "0x804f2E7133d820092D1cb0DA7a77385ECf6e1692",
               "name": "Wrapped gUSDT",
               "symbol": "WGUSDT",
               "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/gusdt.png"
-          },
-          {
-              "chainId": 9745,
-              "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
-              "name": "USDT0",
-              "symbol": "USDT0",
-              "decimals": 6,
-              "logoURI": "https://raw.githubusercontent.com/fuseon-finance/tokenlist/main/assets/usdt0.png"
+              "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/gusdt.svg"
           }
       ]
   }
